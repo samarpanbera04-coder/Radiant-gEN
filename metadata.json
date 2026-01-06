@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate Generator",
+  "description": "The definitive AI-powered workspace for Minecraft developers. Code plugins, mods, resource packs, and more with a high-fidelity dashboard and project tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
